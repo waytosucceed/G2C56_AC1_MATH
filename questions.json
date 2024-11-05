@@ -1,0 +1,37 @@
+[
+  {
+    "questionNo": 1,
+    "question": "Look at the group of ice creams and fill in the given blanks.",
+    "options":["","ice creams divided equally into groups of",""],
+    "answers": ["6","ice creams divided equally into groups of","2"],
+    "secondImg":"./images/21.jpg"
+  },
+  {
+    "questionNo": 2,
+    "question": "Fill in the given empty blanks.",
+    "options":["","bracelets divided equally into groups of",""],
+    "answers": ["6","bracelets divided equally into groups of","3"],
+    "secondImg":"./images/22.jpg"
+  },
+  {
+    "questionNo": 3,
+    "question": "Look at the group of muffins and fill  in the empty blanks.",
+    "options":["","muffins divided equally into groups of",""],
+    "answers": ["8","muffins divided equally into groups of","2"],
+    "secondImg":"./images/23.jpg"
+  },
+  {
+    "questionNo": 4,
+    "question": "Use the picture and fill in the given blanks.",
+    "options":["","pencil boxes divided equally into groups of",""],
+    "answers": ["15","pencil boxes divided equally into groups of","3"],
+    "secondImg":"./images/24.jpg"
+  },
+  {
+    "questionNo": 5,
+    "question": "Fill in the given empty blanks using the given picture.",
+    "options":["","pens divided equally into groups of",""],
+    "answers": ["14","pens divided equally into groups of","2"],
+    "secondImg":"./images/25.jpg"
+  }
+]
